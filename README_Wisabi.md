@@ -24,6 +24,13 @@ This dashboard analyzes ATM transaction data for a leading financial institution
 
 ---
 
+## Dashboard View
+Page 1: Overview
+![Dashboard Page 1](/images/Page%201.png)
+
+Page 2: Demographics
+![Dashboard Page 1](/images/Page%202.png)
+
 ## Key Findings
 
 - **Withdrawals** are the most common transaction type across all locations, followed by transfers, balance inquiries, and deposits
